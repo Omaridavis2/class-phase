@@ -1,0 +1,11 @@
+nav {
+   height: 80px;
+   max-resolution: 0;
+   page-break-after: 0;
+   color: BLACK;
+}
+
+b {
+  font-size: 25px;
+}
+display: .jumbotron;
